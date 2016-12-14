@@ -20,10 +20,16 @@ Because we are required to assist in all internal TTS buys, there has been a reo
 In some ways, we have less control than with external clients. That help is obstensibly why they hired us, and if the external client is committed to doing something we think is harmful, we have the ability to walk away. But in other ways, we have more control with internal clients. Ideally, we have more awareness about what our fellow TTS program offices are working on, and have more ability to get involved earlier in the procurement strategy and requirements definition process.
 
 ### Who is involved in this stage? 
-- [Director of TTS Acquisitions](acqstack-journeymap/_pages/shared-data/tts-acq-director)
-- [Deputy Director of TTS Acquisitions](/shared-data/tts-acq-director)
+
+[Link to a document]({{ site.baseurl }}{% link _collection/name-of-document.md %})
+- [Director of TTS Acquisitions]({{ site.baseurl }}{% link /_pages/shared-data/tts-acq-director.html %})
+- [Deputy Director of TTS Acquisitions](_pages/shared-data/tts-acq-director.html)
+- [Deputy Director of TTS Acquisitions](_pages/shared-data/tts-acq-director.md)
+- [Deputy Director of TTS Acquisitions](_pages/shared-data/tts-acq-director)
+
+
 - [Sometimes TTS Agency Partnerships](acqstack-journeymap/_pages/shared-data/tts-acq-director.html)
-- [Other TTS program office](/shared-data/tts-acq-director.md)
+- [Other TTS program office](_pages/shared-data/tts-acq-director.md)
 
 ### What needs to happen to get us out of this stage? 
 1. Tasks done
