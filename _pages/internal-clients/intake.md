@@ -19,9 +19,9 @@ Because we are required to assist in all internal TTS buys, there has been a reo
 
 In some ways, we have less control than with external clients. That help is obstensibly why they hired us, and if the external client is committed to doing something we think is harmful, we have the ability to walk away. But in other ways, we have more control with internal clients. Ideally, we have more awareness about what our fellow TTS program offices are working on, and have more ability to get involved earlier in the procurement strategy and requirements definition process.
 
-### Who is involved in this stage? 
+### Who is involved in this stage?? 
 
-- [Director of TTS Acquisitions]({{ site.baseurl }}{% link /_pages/shared-data/tts-acq-director.html %})
+- [Director of TTS Acquisitions]({{ site.baseurl }}/_pages/shared-data/tts-acq-director.html)
 - [Deputy Director of TTS Acquisitions](_pages/shared-data/tts-acq-director.html)
 - [Deputy Director of TTS Acquisitions](_pages/shared-data/tts-acq-director.md)
 - [Deputy Director of TTS Acquisitions](_pages/shared-data/tts-acq-director)
