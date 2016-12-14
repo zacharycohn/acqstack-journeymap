@@ -2,42 +2,11 @@
 permalink: /
 title: Introduction
 ---
-Use this template to create [18F Guides](http://pages.18f.gov/guides/)
-and other 18F-branded documentation available on [18F
-Pages](https://pages.18f.gov/). It's structured like an 18F Guides guide,
-and it walks you through the process of creating and publishing an 18F Pages document based on
-the same theme.
+Hello, friend! So I heard you want to buy something. That’s great. Just whip out that credit card and - what’s that? You work for the federal government? Oh, okay then. No, it’s no problem. It’s just a little more complicated than buying socks or amazon web services would be in the private sector.
 
-The template is derived from [CFPB/DOCter](https://github.com/CFPB/DOCter).
-It uses [Jekyll](http://jekyllrb.com/) as the rendering engine.
+To help you through, Acqstack has produced a journey map to guide you on your acquisitions path. So grab your towel and stick out your thumb, my friend. It’s time for us to begin our grand journey.
 
-### Create a new guide/document
-
-To get started on a new guide (or other document based on this theme), 
-follow [the "Getting started" instructions in the 18F/guides-template GitHub
-repository](https://github.com/18F/guides-template/#getting-started) to create
-a local clone of this template.
-
-Once you've created a clone, click the _Add a New Page_ entry in the table of
-contents to begin the rest of the steps.
-
-### Update an existing guide/document
-
-__Note: You need to do this only if your existing guide or document is not already
-using the `guides_style_18f` gem or if it does not have an `18f-pages`
-branch.__
-
-Add the [`guides_style_18f` gem](https://github.com/18F/guides-style) to your
-guide's `Gemfile`, if it's not already present. You may also wish to copy the
-`./go` script from the template if your document doesn't already have one.
-
-To receive layout updates, as well as any new styles or scripts associated
-with them, you will need to run `./go update_theme`. Or — if you aren't using
-a `./go` script — you can run `bundle update --source guides_style_18f`
-manually.)
-
-If your repository already has a `gh-pages` branch, you can create an
-`18f-pages` branch from it by running these commands:
+Oh, before we begin. One quick question: are you buying something for someone in TTS (OPP/OCSIT, 18F, etc), or are you buying something for a non-TTS client (anywhere else in GSA, IRS, Department of State, etc)?
 
 ```
 $ git checkout -b 18f-pages gh-pages
