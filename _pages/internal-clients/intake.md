@@ -22,6 +22,8 @@ In some ways, we have less control than with external clients. That help is obst
 ### Who is involved in this stage??
 
 - [Director of TTS Acquisitions]({{ site.baseurl }}/shared-data/tts-acq-director.md)
+- [Director of TTS Acquisitions]({{ site.baseurl }}/shared-data/tts-acq-director.html)
+- [Director of TTS Acquisitions]({{ site.baseurl }}/shared-data/tts-acq-director)
 - [Deputy Director of TTS Acquisitions](/shared-data/tts-acq-director.html)
 - [Sometimes TTS Agency Partnerships](acqstack-journeymap/_pages/shared-data/tts-acq-director.html)
 - [Other TTS program office](shared-data/tts-acq-director.md)
