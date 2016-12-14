@@ -21,9 +21,9 @@ In some ways, we have less control than with external clients. That help is obst
 
 ### Who is involved in this stage? 
 - [Director of TTS Acquisitions](acqstack-journeymap/_pages/shared-data/tts-acq-director)
-- [Deputy Director of TTS Acquisitions](../shared-data/tts-acq-director)
+- [Deputy Director of TTS Acquisitions](/shared-data/tts-acq-director)
 - [Sometimes TTS Agency Partnerships](acqstack-journeymap/_pages/shared-data/tts-acq-director.html)
-- [Other TTS program office](../shared-data/tts-acq-director.md)
+- [Other TTS program office](/shared-data/tts-acq-director.md)
 
 ### What needs to happen to get us out of this stage? 
 1. Tasks done
