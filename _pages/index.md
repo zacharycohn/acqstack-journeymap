@@ -7,14 +7,3 @@ Hello, friend! So I heard you want to buy something. That’s great. Just whip o
 To help you through, Acqstack has produced a journey map to guide you on your acquisitions path. So grab your towel and stick out your thumb, my friend. It’s time for us to begin our grand journey.
 
 Oh, before we begin. One quick question: are you buying something for someone in TTS (OPP/OCSIT, 18F, etc), or are you buying something for a non-TTS client (anywhere else in GSA, IRS, Department of State, etc)?
-
-```
-$ git checkout -b 18f-pages gh-pages
-$ git push origin 18f-pages
-```
-
-Follow the instructions in _Update the Config File_ to update your
-`_config.yml` accordingly. You may also need to consult the _GitHub Setup_ and
-_Post Your Guide_ chapters to ensure your guide is correctly published to
-`pages.18f.gov` and linked from the main [18F
-Guides](http://pages.18f.gov/guides/) site.
