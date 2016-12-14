@@ -21,7 +21,6 @@ In some ways, we have less control than with external clients. That help is obst
 
 ### Who is involved in this stage? 
 
-[Link to a document]({{ site.baseurl }}{% link _collection/name-of-document.md %})
 - [Director of TTS Acquisitions]({{ site.baseurl }}{% link /_pages/shared-data/tts-acq-director.html %})
 - [Deputy Director of TTS Acquisitions](_pages/shared-data/tts-acq-director.html)
 - [Deputy Director of TTS Acquisitions](_pages/shared-data/tts-acq-director.md)
