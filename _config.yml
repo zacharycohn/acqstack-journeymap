@@ -38,10 +38,49 @@ navigation:
   internal: true
   children:
   - text: Biz Dev
-    url: external-biz-dev/
+    url: bizdev/
     internal: true
   - text: Intake
-    url: external-intake/
+    url: intake/
+    internal: true
+  - text: Agreements
+    url: agreements/
+    internal: true
+  - text: Resourcing
+    url: resourcing/
+    internal: true
+  - text: Onboarding
+    url: onboarding/
+    internal: true
+  - text: Solicitation Scoping
+    url: solicitation-scoping/
+    internal: true
+  - text: Infrastructure Review
+    url: infrastructure-review/
+    internal: true
+  - text: Solictation Drafting
+    url: drafting/
+    internal: true
+  - text: CO Team Assigned
+    url: co-team-assigned/
+    internal: true
+  - text: Acquisition Package Review
+    url: acq-package-review/
+    internal: true
+  - text: Releasing RFP
+    url: release-rfp/
+    internal: true
+  - text: Question and Answers
+    url: qa/
+    internal: true
+  - text: Proposals
+    url: proposals/
+    internal: true
+  - text: Evaluation
+    url: evaluation/
+    internal: true
+  - text: Award
+    url: award/
     internal: true
 
 repos:
