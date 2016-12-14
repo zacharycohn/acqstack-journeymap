@@ -43,13 +43,6 @@ navigation:
   - text: Intake
     url: external-intake/
     internal: true
-- text: Update the config file
-  url: update-the-config-file/
-  internal: true
-  children:
-  - text: Understanding the `baseurl:` property
-    url: understanding-baseurl/
-    internal: true
 
 repos:
 - name: Acqstack Journeymap
