@@ -19,26 +19,27 @@ Because we are required to assist in all internal TTS buys, there has been a reo
 
 In some ways, we have less control than with external clients. That help is obstensibly why they hired us, and if the external client is committed to doing something we think is harmful, we have the ability to walk away. But in other ways, we have more control with internal clients. Ideally, we have more awareness about what our fellow TTS program offices are working on, and have more ability to get involved earlier in the procurement strategy and requirements definition process.
 
-### Who is involved in this stage?? 
+### Who is involved in this stage?
 
 - [Director of TTS Acquisitions]({{ site.baseurl }}/_pages/shared-data/tts-acq-director.md)
 - [Deputy Director of TTS Acquisitions](_pages/shared-data/tts-acq-director.html)
-- [Deputy Director of TTS Acquisitions](_pages/shared-data/tts-acq-director.md)
-- [Deputy Director of TTS Acquisitions](_pages/shared-data/tts-acq-director)
-
-
 - [Sometimes TTS Agency Partnerships](acqstack-journeymap/_pages/shared-data/tts-acq-director.html)
 - [Other TTS program office](_pages/shared-data/tts-acq-director.md)
 
 ### What needs to happen to get us out of this stage? 
 1. Tasks done
+
   * Established client point of contact
   * Verbal confirmation budget for TTS and for vendor is available
+
 2. Documents created
+
   * Executive Summary document is filled out
   * Generate an IA Part A and B for this client from the template. Does not need to be filled out right now to proceed.
   * New google drive folder is created in [WHERE SHOULD THIS FOLDER BE?]
+
 3. Approvals needed
+
   * Director or Deputy Director of TTS Acquisitions
 
 ### What can go wrong in this stage? 
