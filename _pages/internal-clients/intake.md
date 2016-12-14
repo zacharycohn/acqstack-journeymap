@@ -27,13 +27,17 @@ In some ways, we have less control than with external clients. That help is obst
 
 ### What needs to happen to get us out of this stage? 
 1. Tasks done
+- Established client point of contact
+- Verbal confirmation budget for TTS and for vendor is available
 2. Documents created
-2. Approvals needed
+- Executive Summary document is filled out
+- Generate an IA Part A and B for this client from the template. Does not need to be filled out right now to proceed.
+- New google drive folder is created in [WHERE SHOULD THIS FOLDER BE?]
+3. Approvals needed
+- Director or Deputy Director of TTS Acquisitions
 
 ### What can go wrong in this stage? 
 - In the past, there has been an expectation that no, or very little, planning or coordination is necessary. Just "here's an email, now lets go go go!"
-- 
 
 ### What is the next step?
-
-
+The project is staffed!
