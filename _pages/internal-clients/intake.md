@@ -7,7 +7,7 @@ Someone else in TTS says "We have something we need to buy!" Unlike external buy
 Unknown.
 
 ### What happens in this stage? 
-Someone tells the TTS Acquisitions Director or Deputy Director they need something in person, over email, or slack in a DM, in #acquisition, or somewhere else. There is no standard place or way to request assistance at this time. #acq-wg-inception is working on improving this.
+Someone tells the [Director of TTS Acquisitions]({{ site.baseurl }}/shared-data/tts-acq-director) or [Deputy Director of TTS Acquisitions]({{ site.baseurl }}/shared-data/tts-acq-dep-director) they need something in person, over email, or slack in a DM, in #acquisition, or somewhere else. There is no standard place or way to request assistance at this time. #acq-wg-inception is working on improving this.
 
 Things can come up in a number of ways: 
 - Surprise fires, such as a contract expired without those using it realizing it was going to.
@@ -21,12 +21,10 @@ In some ways, we have less control than with external clients. That help is obst
 
 ### Who is involved in this stage??
 
-- [Director of TTS Acquisitions]({{ site.baseurl }}/shared-data/tts-acq-director.md)
-- [Director of TTS Acquisitions]({{ site.baseurl }}/shared-data/tts-acq-director.html)
 - [Director of TTS Acquisitions]({{ site.baseurl }}/shared-data/tts-acq-director)
-- [Deputy Director of TTS Acquisitions](/shared-data/tts-acq-director.html)
-- [Sometimes TTS Agency Partnerships](acqstack-journeymap/_pages/shared-data/tts-acq-director.html)
-- [Other TTS program office](shared-data/tts-acq-director.md)
+- [Deputy Director of TTS Acquisitions]({{ site.baseurl }}/shared-data/tts-acq-dep-director)
+- Sometimes TTS Agency Partnerships
+- Other TTS program office
 
 ### What needs to happen to get us out of this stage? 
 1. Tasks done
@@ -42,7 +40,7 @@ In some ways, we have less control than with external clients. That help is obst
 
 3. Approvals needed
 
-  * Director or Deputy Director of TTS Acquisitions
+  * [Director of TTS Acquisitions]({{ site.baseurl }}/shared-data/tts-acq-director) or [Deputy Director of TTS Acquisitions]({{ site.baseurl }}/shared-data/tts-acq-dep-director)
 
 ### What can go wrong in this stage? 
 In the past, there has been an expectation that no, or very little, planning or coordination is necessary. Just "here's an email, now lets go go go!"
