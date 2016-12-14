@@ -79,7 +79,7 @@ navigation:
   - text: Award
     url: award/
     internal: true
-  text: Internal Clients
+- text: Internal Clients
   url: internal-clients/
   internal: true
   children:
