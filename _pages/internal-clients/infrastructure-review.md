@@ -22,7 +22,8 @@ If you know what you want to buy:
 
 If you don't know what you want to buy: 
 
-- In the case of a full and open competition where you're unsure at this phase who will even bid, let alone win, Infrastructure review cannot feasible happen here. It must happen immediately after award, and be sure to include language that awards the contract to the winner pending successful GSA IT review.
+1. In the case of a full and open competition where you're unsure at this phase who will even bid, let alone win, Infrastructure review cannot feasible happen here. 
+2. It must happen immediately after award, and be sure to include language that awards the contract to the winner pending successful GSA IT review.
 
 ### Who is involved in this stage? 
 
@@ -41,6 +42,8 @@ If you don't know what you want to buy:
 	- Infrastructure lead
 
 ### What can go wrong in this stage? 
+
+You could get denied by Infrastructure! Their review is typically looking to answer the question "Could this sort of thing pass GSA IT review?" 
 
 ### What is the next step?
 

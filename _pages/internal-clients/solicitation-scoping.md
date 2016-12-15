@@ -6,7 +6,7 @@ title: Solicitation Scoping
 Weeks to months.
 
 ### What happens in this stage? 
-It's time to figure out what the client needs to buy, and the acquisition strategy to get it! Here, we may run workshops, do user interviews, and even do some prototyping. 
+It's time to figure out what the client needs to buy, and the acquisition strategy to get it! Here, we may run workshops, do user research, and even do some prototyping. 
 
 We learn as much as we can to develop an acquisition strategy and prepare to draft the acquisition documents.
 

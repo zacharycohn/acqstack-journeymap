@@ -26,7 +26,7 @@ Once they pull a project, members of that substack are assigned and the Project 
 
 
 ### What can go wrong in this stage?
-
+There may not be anyone who has capacity or desire to work on this project. 
 
 ### What is the next step?
 Onboarding
