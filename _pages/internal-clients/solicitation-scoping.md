@@ -13,6 +13,7 @@ We learn as much as we can to develop an acquisition strategy and prepare to dra
 Because this is an internal buy, the activities in this phase may vary depending on whether we're helping them scope the acquisition, or just executing on it. 
 
 There are three types of things we can help our clients buy:
+
 - Dev work to build them a thing
 - "Off the shelf software" (COTS)
 - Body shop/staff augmentation
