@@ -14,11 +14,11 @@ Potentially months, but you can proceed once the preliminary review is done, whi
 
 If you know what you want to buy: 
 
-- Is anyone else using this software, or something similar to it? Ping your Infrastructure Lead to find out.
-- Check the pre-approved software list [LINK]. If the software is on that list, no review or approvals necessary. 
-- If it's not on that list, send your request to the Infrastructure Lead for that business unit or department for review. You may not proceed until this initial review is complete.
-- Once Infrastructure approves, be sure you get added to the official GSA IT review process (this includes a Legal and 508 compliance review).
-- [GET FEEDBACK ON THIS SECTION] You may continue with the procurement while GSA IT review happens. You can potentially apply for pilot status here, through a p-card.
+1. Is anyone else using this software, or something similar to it? Ping your Infrastructure Lead to find out.
+2. Check the pre-approved software list [LINK]. If the software is on that list, no review or approvals necessary. 
+3. If it's not on that list, send your request to the Infrastructure Lead for that business unit or department for review. You may not proceed until this initial review is complete.
+4. Once Infrastructure approves, be sure you get added to the official GSA IT review process (this includes a Legal and 508 compliance review).
+5. [GET FEEDBACK ON THIS SECTION] You may continue with the procurement while GSA IT review happens. You can potentially apply for pilot status here, through a p-card.
 
 If you don't know what you want to buy: 
 
