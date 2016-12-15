@@ -13,7 +13,6 @@ The program office should be involved in reviewing these documents as they're wr
 We typically write these documents in Google Docs to facilitate easy collaboration and sharing.
 
 These are the documents that must be created before we can move forward to the next stage, assigning a Contracting Officer from NCR:
-
 	- [Executive Summary]({{ site.baseurl }}/shared-data/executive-summary)
 	- [Performance Work Statement (PWS)]({{ site.baseurl }}/shared-data/pws)
 	- [Independent Government Cost Estimate (IGCE)]({{ site.baseurl }}/shared-data/igce)
@@ -21,7 +20,6 @@ These are the documents that must be created before we can move forward to the n
 	- [Evaluation Criteria]({{ site.baseurl }}/shared-data/eval-criteria)
 
 These are the documents that must be created, but can be created after we have an assigned CO from NCR:
-
 	- [Quality Assurance Surveillance Plan (QASP)]({{ site.baseurl }}/shared-data/qasp)
 	- [Acquisition Plan]({{ site.baseurl }}/shared-data/acquisition-plan)
 	- [Any justifications that are needed]({{ site.baseurl }}/shared-data/justifications)
