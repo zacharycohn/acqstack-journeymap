@@ -13,6 +13,7 @@ The program office should be involved in reviewing these documents as they're wr
 We typically write these documents in Google Docs to facilitate easy collaboration and sharing.
 
 These are the documents that must be created before we can move forward to the next stage, assigning a Contracting Officer from NCR:
+
 	- [Executive Summary]({{ site.baseurl }}/shared-data/executive-summary)
 	- [Performance Work Statement (PWS)]({{ site.baseurl }}/shared-data/pws)
 	- [Independent Government Cost Estimate (IGCE)]({{ site.baseurl }}/shared-data/igce)
