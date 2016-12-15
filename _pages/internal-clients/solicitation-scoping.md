@@ -14,9 +14,9 @@ Because this is an internal buy, the activities in this phase may vary depending
 
 There are three types of things we can help our clients buy:
 
-- Dev work to build them a thing
-- "Off the shelf software" (COTS)
-- Body shop/staff augmentation
+1. Dev work to build them a thing
+2. "Off the shelf software" (COTS)
+3. Body shop/staff augmentation
 
 ### Who is involved in this stage? 
 

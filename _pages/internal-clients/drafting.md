@@ -20,7 +20,7 @@ These are the documents that must be created before we can move forward to the n
 - [Market Research]({{ site.baseurl }}/shared-data/market-research)
 - [Evaluation Criteria]({{ site.baseurl }}/shared-data/eval-criteria)
 
-Th3se are the documents that must be created, but can be created after we have an assigned CO from NCR:
+These are the documents that must be created, but can be created after we have an assigned CO from NCR:
 
 - [Quality Assurance Surveillance Plan (QASP)]({{ site.baseurl }}/shared-data/qasp)
 - [Acquisition Plan]({{ site.baseurl }}/shared-data/acquisition-plan)

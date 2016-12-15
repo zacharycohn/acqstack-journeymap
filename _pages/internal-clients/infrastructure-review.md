@@ -14,9 +14,9 @@ Potentially months, but you can proceed once the preliminary review is done, whi
 
 If you know what you want to buy: 
 
-1. Is anyone else using this software, or something similar to it? Ping your Infrastructure Lead to find out.
+1. Is anyone else using this software, or something similar to it? Ping your [Infrastructure Lead]({{ site.baseurl }}/shared-data/infra-lead) to find out.
 2. Check the pre-approved software list [LINK]. If the software is on that list, no review or approvals necessary. 
-3. If it's not on that list, send your request to the Infrastructure Lead for that business unit or department for review. You may not proceed until this initial review is complete.
+3. If it's not on that list, send your request to the [Infrastructure Lead]({{ site.baseurl }}/shared-data/infra-lead) for that business unit or department for review. You may not proceed until this initial review is complete.
 4. Once Infrastructure approves, be sure you get added to the official GSA IT review process (this includes a Legal and 508 compliance review).
 5. [GET FEEDBACK ON THIS SECTION] You may continue with the procurement while GSA IT review happens. You can potentially apply for pilot status here, through a p-card.
 
@@ -28,7 +28,7 @@ If you don't know what you want to buy:
 ### Who is involved in this stage? 
 
 - Acqstack team
-- The program office's Infrastructure Lead
+- The program office's [Infrastructure Lead]({{ site.baseurl }}/shared-data/infra-lead)
 - GSA IT
 
 ### What needs to happen to get us out of this stage? 
@@ -39,7 +39,7 @@ If you don't know what you want to buy:
 2. Documents created
 	- N/A
 3. Approvals needed
-	- Infrastructure lead
+	- [Infrastructure Lead]({{ site.baseurl }}/shared-data/infra-lead)
 
 ### What can go wrong in this stage? 
 
