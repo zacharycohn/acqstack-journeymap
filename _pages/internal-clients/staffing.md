@@ -13,7 +13,7 @@ Once they pull a project, members of that substack are assigned and the Project 
 
 ### Who is involved in this stage? 
 
-- [Infrastructure Lead]({{ site.baseurl }}/shared-data/kanban-lead)
+- [Kanban Lead]({{ site.baseurl }}/shared-data/kanban-lead)
 - Members of the substack
 
 ### What needs to happen to get us out of this stage? 

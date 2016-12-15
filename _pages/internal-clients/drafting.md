@@ -54,7 +54,7 @@ While the CO is writing solicitation documents, the PM has a few things to take 
 	- [IX]({{ site.baseurl }}/shared-data/ix)
 
 3. Approvals needed
-	- Client approval of solicitation documents
+	- Initial client approval of solicitation documents.
 	- IX approved by OCFO and TTS Finance
 	- IA part A and B signed and approved by, in the folllowing order:
 		- [TTS OGC]({{ site.baseurl }}/shared-data/tts-ogc)
