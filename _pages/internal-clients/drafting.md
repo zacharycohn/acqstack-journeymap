@@ -36,7 +36,7 @@ These are the documents that must be created, but can be created after we have a
 While the CO is writing solicitation documents, the PM has a few things to take care of before you can move forward. 
 
 1. The [IX]({{ site.baseurl }}/shared-data/ix) also needs to be completed by the TTS Finance team before we can move forward. The PM usually takes care of getting this done.
-2. Make sure the [IA]({{ site.baseurl }}/shared-data/ia) [Part A]({{ site.baseurl }}/shared-data/ia-part-a and [Part B]({{ site.baseurl }}/shared-data/ia-part-b) between TTS and NCR is done and signed.
+2. Make sure the [IA]({{ site.baseurl }}/shared-data/ia) [Part A]({{ site.baseurl }}/shared-data/ia-part-a) and [Part B]({{ site.baseurl }}/shared-data/ia-part-b) between TTS and NCR is done and signed.
 
 
 ### Who is involved in this stage?
