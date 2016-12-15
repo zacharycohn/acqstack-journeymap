@@ -14,18 +14,19 @@ We typically write these documents in Google Docs to facilitate easy collaborati
 
 These are the documents that must be created before we can move forward to the next stage, assigning a Contracting Officer from NCR:
 
-	- [Executive Summary]({{ site.baseurl }}/shared-data/executive-summary)
-	- [Performance Work Statement (PWS)]({{ site.baseurl }}/shared-data/pws)
-	- [Independent Government Cost Estimate (IGCE)]({{ site.baseurl }}/shared-data/igce)
-	- [Market Research]({{ site.baseurl }}/shared-data/market-research)
-	- [Evaluation Criteria]({{ site.baseurl }}/shared-data/eval-criteria)
+- [Executive Summary]({{ site.baseurl }}/shared-data/executive-summary)
+- [Performance Work Statement (PWS)]({{ site.baseurl }}/shared-data/pws)
+- [Independent Government Cost Estimate (IGCE)]({{ site.baseurl }}/shared-data/igce)
+- [Market Research]({{ site.baseurl }}/shared-data/market-research)
+- [Evaluation Criteria]({{ site.baseurl }}/shared-data/eval-criteria)
 
 These are the documents that must be created, but can be created after we have an assigned CO from NCR:
-	- [Quality Assurance Surveillance Plan (QASP)]({{ site.baseurl }}/shared-data/qasp)
-	- [Acquisition Plan]({{ site.baseurl }}/shared-data/acquisition-plan)
-	- [Any justifications that are needed]({{ site.baseurl }}/shared-data/justifications)
-	- [Proposal Template]({{ site.baseurl }}/shared-data/proposal-template)
-	- [The RF(x) itself]({{ site.baseurl }}/shared-data/rfx)
+
+- [Quality Assurance Surveillance Plan (QASP)]({{ site.baseurl }}/shared-data/qasp)
+- [Acquisition Plan]({{ site.baseurl }}/shared-data/acquisition-plan)
+- [Any justifications that are needed]({{ site.baseurl }}/shared-data/justifications)
+- [Proposal Template]({{ site.baseurl }}/shared-data/proposal-template)
+- [The RF(x) itself]({{ site.baseurl }}/shared-data/rfx)
 
 While the CO is writing solicitation documents, the PM has a few things to take care of before you can move forward. 
 
