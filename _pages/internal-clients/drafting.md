@@ -22,6 +22,11 @@ These are the documents that must be created before we can move forward to the n
 
 These are the documents that must be created, but can be created after we have an assigned CO from NCR:
 
+- [Executive Summary]({{ site.baseurl }}/shared-data/executive-summary)
+- [Performance Work Statement (PWS)]({{ site.baseurl }}/shared-data/pws)
+- [Independent Government Cost Estimate (IGCE)]({{ site.baseurl }}/shared-data/igce)
+- [Market Research]({{ site.baseurl }}/shared-data/market-research)
+- [endhereEvaluation Criteria]({{ site.baseurl }}/shared-data/eval-criteria)
 - [Quality Assurance Surveillance Plan (QASP)]({{ site.baseurl }}/shared-data/qasp)
 - [Acquisition Plan]({{ site.baseurl }}/shared-data/acquisition-plan)
 - [Any justifications that are needed]({{ site.baseurl }}/shared-data/justifications)
