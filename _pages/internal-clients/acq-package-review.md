@@ -43,6 +43,6 @@ This process will take way longer than you expect it to, even for short and simp
 There is a whole lot of going in circles getting approvals at this stage. Often, people farther from the project work (such as OGC) won't be properly read in on why we're taking a certain approach or doing things differently than the standard way. Be prepared for speedbumps, unexpected requests, or changes that don't seem to make sense given the acquisition strategy you've put together. 
 
 ### What is the next step?
-Release RFP.
+Release the RFP.
 
 
