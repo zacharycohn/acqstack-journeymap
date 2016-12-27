@@ -36,5 +36,5 @@ It is up to the CO’s discretion to allow questions after the Q&A has closed. A
 There can be more questions than expected, which can take a long time to answer. Questions can also reveal problems with the original solicitation that require more significant revisions. No matter how long you give vendors, history indicates they will typically wait until the last day possible to submit questions.
 
 ### What is the next step?
-
+Proposals.
 
