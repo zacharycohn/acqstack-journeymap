@@ -24,7 +24,7 @@ Schedule a kickoff meeting with the client to introduce them to the team, discus
 	- N/A
 
 ### What can go wrong in this stage? 
-The fresh team tends to lok around and say "Wait, what!? Why is this happening? Who told them that?" As a member of the project team, it's important to challenge all assumptions about the project. There are frequently expectation differences. Clients will often feel burned by the agreements process, and by shifting POC's on the TTS side. 
+The fresh team tends to look around and say "Wait, what!? Why is this happening? Who told them that?" As a member of the project team, it's important to challenge all assumptions about the project. There are frequently expectation differences. Clients will often feel burned by the agreements process, and by shifting POC's on the TTS side. 
 
 Be aware, the client point of contact may have changed. 
 

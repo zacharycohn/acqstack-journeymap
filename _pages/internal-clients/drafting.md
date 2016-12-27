@@ -60,12 +60,19 @@ While the CO is writing solicitation documents, the PM has a few things to take 
 		- [TTS OGC]({{ site.baseurl }}/shared-data/tts-ogc)
 		- [NCR OGC]({{ site.baseurl }}/shared-data/ncr-ogc)
 		- [TTS OCFO]({{ site.baseurl }}/shared-data/tts-ocfo)
-		- [TTS Assistant Commissioner]({{ site.baseurl }}/shared-data/tts-assistance-commissioner) for that program office
+		- [TTS Assistant Commissioner]({{ site.baseurl }}/shared-data/tts-assistant-commissioner) for that program office
 		- FAS/NCR OCFO certifying official (unclear what or who this is???)
 		- [NCR Commissioner]({{ site.baseurl }}/shared-data/ncr-commissioner)
 
 
 ### What can go wrong in this stage? 
+The IA Part A and B and the IX documents have historically been difficult to get signed in a timely manner without significant effort. NCR OGC requires a very specific format, but that format does not always apply or contain all the necessary information. Efforts are underway to address this. 
+
+There are a lot of approvals to get just to start work. Expect unexpected delays.
+
+Client approval of documents is something we have no control over, and is a significant watchpoint.
+
+You should also over-communicate to the client how the work will be done (open source, agile, etc), and get clear buy-in from all releavnt stakeholders. It is very easy to not do enough here, then be met with resistance later on when stakeholders realize what's happening.
 
 ### What is the next step?
 NCR Contracting Officer and Contracting Specialist are assigned.

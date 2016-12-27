@@ -2,7 +2,7 @@
 title: Infrastructure Review
 ---
 
-If you are buying software, pay attention to this stage! If you're buying access to people, you can proceed to the Drafting stage. 
+If you are buying software, pay attention to this stage! If you're buying access to people, you can proceed to the Solicitation Drafting stage. 
 
 There is a preliminary review, and a full GSA IT review.
 
@@ -46,5 +46,5 @@ If you don't know what you want to buy:
 You could get denied by Infrastructure! Their review is typically looking to answer the question "Could this sort of thing pass GSA IT review?" 
 
 ### What is the next step?
-
+Solicitation drafting.
 
