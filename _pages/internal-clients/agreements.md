@@ -1,0 +1,48 @@
+---
+title: Agreements
+---
+
+### How long does this process usually take?
+Huge variance. Anywhere from a few weeks to a months and months. As of December 2016, the average time is 42 days.
+
+### What happens in this stage? 
+Warning: You can proceed with the project before this phase is done for internal procurements, but expect this process to be long and full of unexpected surprises and requirements. Start this phase as soon as a TTS PM is assigned to your project, and stay on top of it.
+
+To initiate a new project with an internal (TTS) client, TTS must create a new "intra-agency agreement" with NCR to define the scope of work for this procurement action and to define the necessary financial information. These are described in two documents, called IA Part A and Part B's respectively. These documents are templates that should not be edited, except for very specific sections referencing your particular client and project.
+
+All of these documents must go through their signature and approval processes. We currently use TTS's Interagency Agreements team for agreements. Once you have filled out the client and project specific parts of the IA Part A and B, fill out the [IAA Request Form](https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSdRQerRDxl4hPX_zTQJcY9fR9i0z3LI3dLQiKE0uyJ5fF666g/viewform) and team ops will fill out the rest of the information on the IA forms, will send to TTS OGC and NCR OGC for review, and will route for signatures. 
+
+The client must also create and submit an IX to NCR. Who handles the IX generation process depends on which office the client is in. For TTS, talk to TTS finance team, for OPP talk to Stephanie.Webb@gsa.gov.
+
+### Who is involved in this stage? 
+- TTS Agreements team
+- TTS Finance team
+- NCR Legal/OGC
+- NCR PM
+- TTS Legal/OGC
+- TTS team
+- Client 
+- NCR Deputy Commissioner
+- TTS Deputy Commissioner
+- TTS OCFO
+- NCR OCFO
+- Client POC
+- Client Finance POC
+
+### What needs to happen to get us out of this stage? 
+1. Tasks done
+	- IA Part A and B generated, approved, and signed by a lot of people.
+2. Documents created
+	- IA Part A
+	- IA Part B
+	- IX
+3. Approvals needed
+	- Everyone in the "who is involved" section
+
+### What can go wrong in this stage? 
+Historically, so, so, so many things. Theoretically, the process as is written above should be smoother now. If you start this process ASAP, you should have time to get all this done. 
+
+### What is the next step?
+Solicitation Scoping
+
+
