@@ -29,5 +29,4 @@ The fresh team tends to look around and say "Wait, what!? Why is this happening?
 Be aware, the client point of contact may have changed. 
 
 ### What is the next step?
-Solicitation Scoping.
-
+Agreements
