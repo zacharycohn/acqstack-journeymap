@@ -1,7 +1,7 @@
 ---
-title: External Clients
+title: Acqstack Deputy Director
 ---
 
-The Current TTS Commissioner is: Rob Cook. 
-Email: rob.cook@gsa.gov
-Slack: @robcook 
+The Current TTS Commissioner is: Alla Goldman-Seiffert. 
+Email: alla.seiffert@gsa.gov
+Slack: @alla

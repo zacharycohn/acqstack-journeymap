@@ -1,7 +1,6 @@
 ---
-title: External Clients
+title: TTS Office of General Counsel
 ---
 
-The Current TTS Commissioner is: Rob Cook. 
-Email: rob.cook@gsa.gov
-Slack: @robcook 
+The current representative of OGC for TTS is: John Peters. 
+Email: john.h.peters@gsa.gov

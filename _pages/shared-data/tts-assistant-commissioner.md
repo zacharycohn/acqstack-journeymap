@@ -1,7 +1,7 @@
 ---
-title: External Clients
+title: TTS Assistant Commissioner
 ---
 
-The Current TTS Commissioner is: Rob Cook. 
-Email: rob.cook@gsa.gov
-Slack: @robcook 
+The current Acting TTS Assistant Commissioner is: Dave Zvenyach. 
+Email: vladlen.zvenyach@gsa.gov 
+Slack: @vdavez

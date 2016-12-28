@@ -1,7 +1,7 @@
 ---
-title: External Clients
+title: Acqstack Director
 ---
 
-The Current TTS Commissioner is: Rob Cook. 
-Email: rob.cook@gsa.gov
-Slack: @robcook 
+The current Acqstack Director is: Dave Zvenyach. 
+Email: vladlen.zvenyach@gsa.gov
+Slack: @vdavez 

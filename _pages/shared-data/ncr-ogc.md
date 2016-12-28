@@ -1,7 +1,6 @@
 ---
-title: External Clients
+title: NCR Office of General Counsel
 ---
 
-The Current TTS Commissioner is: Rob Cook. 
-Email: rob.cook@gsa.gov
-Slack: @robcook 
+The current representative from NCR OGC for TTS is: Maria [last name unknown]. 
+Email: ???

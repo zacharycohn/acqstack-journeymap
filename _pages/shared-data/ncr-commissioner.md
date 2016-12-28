@@ -1,7 +1,6 @@
 ---
-title: External Clients
+title: NCR Commissioner
 ---
 
-The Current TTS Commissioner is: Rob Cook. 
-Email: rob.cook@gsa.gov
-Slack: @robcook 
+The current TTS Commissioner is: Houston Taylor. 
+Email: houston.taylor@gsa.gov

@@ -1,7 +1,6 @@
 ---
-title: External Clients
+title: TTS Office of Chief Information Officer
 ---
 
-The Current TTS Commissioner is: Rob Cook. 
-Email: rob.cook@gsa.gov
-Slack: @robcook 
+The current representative for TTS in OCFO is: ???. 
+Email: ???

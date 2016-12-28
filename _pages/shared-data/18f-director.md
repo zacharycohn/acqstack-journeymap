@@ -1,7 +1,7 @@
 ---
-title: External Clients
+title: 18F Director
 ---
 
-The Current TTS Commissioner is: Rob Cook. 
-Email: rob.cook@gsa.gov
-Slack: @robcook 
+The Current 18F (Acting) Director is: Dave Zvenyach. 
+Email: vladlen.zvenyach@gsa.gov
+Slack: @vdavez
