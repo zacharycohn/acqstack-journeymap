@@ -92,6 +92,9 @@ navigation:
   - text: Onboarding
     url: onboarding/
     internal: true
+  - text: Agreements
+    url: agreements/
+    internal: true
   - text: Solicitation Scoping
     url: solicitation-scoping/
     internal: true
