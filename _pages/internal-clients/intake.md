@@ -31,10 +31,10 @@ In some ways, we have less control than with external clients. That help is obst
 1. Tasks done
   * Established client point of contact
   * Verbal confirmation budget for TTS and for vendor is available
-  * A card is created in the Kanban board, links to the Executive Summary, and is moved to "Staging."
+  * A card is created in the Kanban board, links to the [Executive Summary]({{ site.baseurl }}/shared-data/executive-summary), and is moved to "Staging."
 2. Documents created
-  * Executive Summary document is filled out.
-  * Generate an IA Part A and B for this client from the template. Does not need to be filled out right now to proceed.
+  * [Executive Summary]({{ site.baseurl }}/shared-data/executive-summary) document is filled out.
+  * Generate an [IA Part A]({{ site.baseurl }}/shared-data/ia-part-a) and [IA Part B]({{ site.baseurl }}/shared-data/ia-part-b) for this client from the template. Does not need to be filled out right now to proceed.
   * New google drive folder is created in [WHERE SHOULD THIS FOLDER BE?]
 3. Approvals needed
   * [Director of TTS Acquisitions]({{ site.baseurl }}/shared-data/tts-acq-director) or [Deputy Director of TTS Acquisitions]({{ site.baseurl }}/shared-data/tts-acq-dep-director)
