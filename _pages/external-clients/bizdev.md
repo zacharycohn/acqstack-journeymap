@@ -24,12 +24,9 @@ One or two members of TTS Acquisitions and the agency sponsor for the potential 
 
 1. Tasks done
 	- Ensure funding availability: Is there enough money available to execute a TTS assisted acquisition? When does the funding expire (1 year money vs multi-year money)?
-
 	- Agency readiness: Has the partner agency identified an empowered Product Owner? Does the project have senior stakeholder buy-in? Does the agency understand the agile process and are they willing to execute the project using open source code? If modular procurement is appropriate, are they willing to execute the procurements that way?
-
 2. Documents created
 	- N/A
-
 3. Approvals 
 	- TTS Acquisitions management
 	- Agency management
