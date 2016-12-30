@@ -9,6 +9,7 @@ The length of time in Biz Dev is highly variable depending on the urgency of the
 ### What happens in this stage?
 
 Biz Dev happens in three primary ways:
+
 1. Repeat business with an agency who has been a TTS partner before
 2. Inbound request from a referral or from hearing about TTS’s track record
 3. TTS staff making outbound inquiries for important projects we can help execute
@@ -22,9 +23,9 @@ One or two members of TTS Acquisitions and the agency sponsor for the potential 
 ### What needs to happen to get us out of this stage?
 
 1. Tasks done
-	- Ensure funding availability - Is there enough money available to execute a TTS assisted acquisition? When does the funding expire (1 year money vs multi-year money)?
+	- Ensure funding availability: Is there enough money available to execute a TTS assisted acquisition? When does the funding expire (1 year money vs multi-year money)?
 
-	- Agency readiness - Has the partner agency identified an empowered Product Owner? Does the project have senior stakeholder buy-in? Does the agency understand the agile process and are they willing to execute the project using open source code? If modular procurement is appropriate, are they willing to execute the procurements that way?
+	- Agency readiness: Has the partner agency identified an empowered Product Owner? Does the project have senior stakeholder buy-in? Does the agency understand the agile process and are they willing to execute the project using open source code? If modular procurement is appropriate, are they willing to execute the procurements that way?
 
 2. Documents created
 	- N/A

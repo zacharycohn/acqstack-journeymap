@@ -10,13 +10,13 @@ The TTS IAA process is used to formalize a tripartite agreement between TTS, Nat
 
 ### Who is involved in this stage?
 
-TTS - Acquisitions Team, Agreements Team, Finance Team
-NCR - OGC/Legal, Project Manager
-Partner agency - Legal, Project Team
+- TTS: Acquisitions Team, Agreements Team, Finance Team
+- NCR: OGC/Legal, Project Manager
+- Partner agency: Legal, Project Team
 
 ### What needs to happen to get us out of this stage? 
 1. Tasks done
-	- Finalize IAA.
+	- Finalize IAA
 2. Documents created
 	- SOW
 	- 7600A
