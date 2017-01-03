@@ -12,7 +12,7 @@ The program office should be involved in reviewing these documents as they're wr
 
 We typically write these documents in Google Docs to facilitate easy collaboration and sharing.
 
-These are the documents that must be created before we can move forward to the next stage, assigning a Contracting Officer from NCR:
+These five documents must be created before the next stage, assigning a Contracting Officer from NCR. Once these documents are done, email them to the NCR PM and cc the Director and Deputy Director of Acquisitions. Update the Trello card to reflect the initial package has been shipped.
 
 - [Executive Summary]({{ site.baseurl }}/shared-data/executive-summary)
 - [Performance Work Statement (PWS)]({{ site.baseurl }}/shared-data/pws)
@@ -28,11 +28,7 @@ These are the documents that must be created, but can be created after we have a
 - [Proposal Template]({{ site.baseurl }}/shared-data/proposal-template)
 - [The RF(x) itself]({{ site.baseurl }}/shared-data/rfx)
 
-While the CO is writing solicitation documents, the PM has a few things to take care of before you can move forward. 
-
-1. The [IX]({{ site.baseurl }}/shared-data/ix) also needs to be completed by the TTS Finance team before we can move forward. The PM usually takes care of getting this done.
-2. Make sure the [IA]({{ site.baseurl }}/shared-data/ia) [Part A]({{ site.baseurl }}/shared-data/ia-part-a) and [Part B]({{ site.baseurl }}/shared-data/ia-part-b) between TTS and NCR is done and signed.
-
+While the CO is writing solicitation documents, the PM should focus on getting the [IX]({{ site.baseurl }}/shared-data/ix) completed by the TTS Finance team before we can move forward.
 
 ### Who is involved in this stage?
 
@@ -66,8 +62,6 @@ While the CO is writing solicitation documents, the PM has a few things to take 
 
 
 ### What can go wrong in this stage? 
-The IA Part A and B and the IX documents have historically been difficult to get signed in a timely manner without significant effort. NCR OGC requires a very specific format, but that format does not always apply or contain all the necessary information. Efforts are underway to address this. 
-
 There are a lot of approvals to get just to start work. Expect unexpected delays.
 
 Client approval of documents is something we have no control over, and is a significant watchpoint.

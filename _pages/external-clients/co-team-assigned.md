@@ -6,7 +6,7 @@ title: NCR CO Team Assigned
 A few days, if NCR is not at their WIP limit of active projects. 
 
 ### What happens in this stage? 
-Once you have the required documents from the Drafting stage, alert the [TTS Acquisitions Deputy Director]({{ site.baseurl }}/shared-data/tts-acq-dep-director), who will set up a kickoff with the [NCR PM]({{ site.baseurl }}/shared-data/ncr-pm). NCR will bring along a Contracting Officer and Contracting Specialist (CS).
+Once you have the required documents from the Drafting stage, the PM should contact the [NCR PM]({{ site.baseurl }}/shared-data/ncr-pm) to set up a kickoff meeting. NCR will bring along a Contracting Officer and Contracting Specialist (CS).
 
 During this kickoff, you will walk through the [Executive Summary]({{ site.baseurl }}/shared-data/executive-summary), explain the buy to NCR, and establish a mutually agreed upon timeline of events.
 
@@ -31,6 +31,8 @@ This is also a good time to agree on communication patterns (who from NCR is sen
 
 ### What can go wrong in this stage? 
 Sometimes this step is done just through email. This is pretty universally a bad plan, and almost guarantees problems down the road. A live conversation, either sit down or video call, is necessary to ensure all parties are on the same page about the acquisitiion strategy and timelines.
+
+It's really important that NCR actually confirms their committment to the timeline. Put extra EXTRA emphasis on this near the end of the fiscal/calendar year.
 
 ### What is the next step?
 Acquisition Package Review

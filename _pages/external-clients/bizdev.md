@@ -18,7 +18,7 @@ TTS evaluates each potential project based on whether an acquisition is the righ
 
 ### Who is involved in this stage?
 
-One or two members of TTS Acquisitions and the agency sponsor for the potential project.
+One or two members of TTS Acquisitions and the agency sponsor for the potential project and Agency Partnerships.
 
 ### What needs to happen to get us out of this stage?
 

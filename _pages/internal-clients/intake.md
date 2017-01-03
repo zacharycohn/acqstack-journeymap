@@ -22,10 +22,9 @@ In some ways, we have less control than with external clients. That help is obst
 
 ### Who is involved in this stage??
 
-- [Director of TTS Acquisitions]({{ site.baseurl }}/shared-data/tts-acq-director)
-- [Deputy Director of TTS Acquisitions]({{ site.baseurl }}/shared-data/tts-acq-dep-director)
+- [Director of TTS Acquisitions]({{ site.baseurl }}/shared-data/tts-acq-director) or [Deputy Director of TTS Acquisitions]({{ site.baseurl }}/shared-data/tts-acq-dep-director)
 - Sometimes TTS Agency Partnerships
-- Other TTS program office
+- Other TTS program office (the client)
 
 ### What needs to happen to get us out of this stage? 
 1. Tasks done
