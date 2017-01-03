@@ -3,12 +3,12 @@ title: Agreements
 ---
 
 ### How long does this process usually take?
-As of December 2016, the average time is 42 days. The amount of time spent in the Agreements process depends largely on how fast TTS and the agency partner get the necessary approvals. This process usually takes between 30-60 days, but is highly variable depending on how long it takes to obtain signature and finalize the engagement. 
+As of December 2016, the average time from IAA Request Form being filled out to final signature is 42 days, and typically ranges from 30 to 60 days. The amount of time spent in the Agreements process depends largely on how fast TTS and the agency partner get the necessary approvals and signatures and finalize the agreement. 
 
 ### What happens in this stage?
 The TTS IAA process is used to formalize a tripartite agreement between TTS, National Capital Region (NCR) Contracting Office, and an agency partner where TTS/NCR will perform an assisted acquisition on behalf of the agency partner.
 
-The TTS Agreements team will manage the workflow of shipping all documents to all the right approvers - please do not reach out to them to request signatures directly. 
+The TTS Agreements team will manage the workflow of shipping all documents to all the right approvers - please do not reach out to reviewers and approvers to request signatures directly. 
 
 We cannot leave this stage until money is obligated, not just IAA signed.
 
@@ -36,6 +36,7 @@ We cannot leave this stage until money is obligated, not just IAA signed.
 	- NCR OGC
 	- Client point of contact
 	- Client Finance point of contact
+	- Client legal
 	- Contracting Officer from client's acquisition team may need to be the signatory, or at least look at it. Ask your client.
 
 ### What can go wrong in this stage? 
