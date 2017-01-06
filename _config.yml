@@ -34,7 +34,7 @@ navigation:
 - text: Acqstack Journeymap
   internal: true
 - text: External Clients
-  url: external-clients/external-clients/
+  url: external-clients/
   internal: true
   children:
   - text: Biz Dev
@@ -80,7 +80,7 @@ navigation:
     url: award/
     internal: true
 - text: Internal Clients
-  url: internal-clients/internal-clients/
+  url: internal-clients/
   internal: true
   children:
   - text: Intake
