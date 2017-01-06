@@ -34,7 +34,7 @@ navigation:
 - text: Acqstack Journeymap
   internal: true
 - text: External Clients
-  url: external-clients/
+  url: external-clients/external-clients/
   internal: true
   children:
   - text: Biz Dev
