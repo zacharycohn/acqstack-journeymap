@@ -2,9 +2,6 @@
 title: Proposal Evaluation
 ---
 
-### How long does this process usually take?
-1-3 weeks, depending on type of solicitation, number of bidders, and whether there are oral interviews..
-
 ### What happens in this stage? 
 TTS and the client team forms an Technical Evaluation Panel or Board (TEP). This panel should be briefed by the TTS CO and NCR CO about how to properly do the evaluation and what to avoid doing to ensure compliance with all rules and regulations.
 
@@ -12,12 +9,14 @@ Evaluation panels are typically made up of a client product owner, a product lea
 
 The evaluation panel will evaluate the written proposals, and then typically do oral interviews with vendors as well. Evaluate vendors on written proposals first so you have an idea of what you want to particularly listen to for that vendor during the orals. If you write it into the RFP, you can also disqualify a vendor based on their written proposal and skip their oral interview.
 
-
 Scheduling these is much easier when you give the vendors windows of time to sign up for, rather than asking what works for them.
 
 NCR handles formal communications with all bidders.
 
 After evaluations are completed, NCR releases pricing information to TTS. Final determinations are then made.  
+
+### How long does this process usually take?
+1-3 weeks, depending on type of solicitation, number of bidders, and whether there are oral interviews.
 
 ### Who is involved in this stage? 
 - NCR CO

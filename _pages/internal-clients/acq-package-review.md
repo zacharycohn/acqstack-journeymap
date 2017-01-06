@@ -2,9 +2,6 @@
 title: Acquisition Package Review
 ---
 
-### How long does this process usually take?
-3-5 weeks. Sometimes longer.
-
 ### What happens in this stage? 
 The [NCR CO]({{ site.baseurl }}/shared-data/ncr-co) and [NCR CS]({{ site.baseurl }}/shared-data/ncr-cs) review the solicitation documents the TTS project team put together. They may ask for changes, additional explanations, additional documents, or for certain sections to be rewritten. Everyone should be using Google Docs to review and make edits.
 
@@ -13,6 +10,9 @@ After changes are made, go back and get the client's approval. Then go back and 
 This approval process is a cycle. Keep going until everyone is happy.
 
 This process will take way longer than you expect it to, even for short and simple procurements. 
+
+### How long does this process usually take?
+3-5 weeks. Sometimes longer.
 
 ### Who is involved in this stage? 
 - [NCR CO]({{ site.baseurl }}/shared-data/ncr-co)

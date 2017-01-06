@@ -2,9 +2,6 @@
 title: Solicitation Scoping
 ---
 
-### How long does this process usually take?
-Weeks to months.
-
 ### What happens in this stage? 
 It's time to figure out what the client needs to buy, and the acquisition strategy to get it! Here, we may run workshops, do user research, and even do some prototyping. 
 
@@ -18,10 +15,16 @@ There are three types of things we can help our clients buy:
 2. "Off the shelf software" (COTS)
 3. Body shop/staff augmentation
 
+If you find yourself doing a heavy amount of prototyping and the consulting aspect becomes a much heavier lift than just prepping to process a buy, that's a signal this project might be better done by 18F's Custom Partner Solutions. Consider transitioning the project to 18F.
+
+### How long does this process usually take?
+Weeks to months.
+
 ### Who is involved in this stage? 
 
 - The client team
 - The Acqstack team
+- Acqusiition Mangagement and Oversight
 
 ### What needs to happen to get us out of this stage? 
 1. Tasks done
@@ -36,4 +39,3 @@ Sometimes there is a desire to "just get started" and we just have a conversatio
 
 ### What is the next step?
 Infrastructure review
-

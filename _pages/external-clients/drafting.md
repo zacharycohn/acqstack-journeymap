@@ -2,9 +2,6 @@
 title: Solicitation Drafting
 ---
 
-### How long does this process usually take?
-A few days to a week or two to create the documents. A few weeks to a few months depending on client reviews.
-
 ### What happens in this stage? 
 This is where the magic happens: drafting of the solicitation documents! Typically the TTS CO will take point on writing these, but they'll be aided by the tech lead and the product lead. 
 
@@ -29,6 +26,9 @@ These are the documents that must be created, but can be created after we have a
 - [The RF(x) itself]({{ site.baseurl }}/shared-data/rfx)
 
 While the CO is writing solicitation documents, the PM should focus on getting the [IX]({{ site.baseurl }}/shared-data/ix) completed by the TTS Finance team before we can move forward.
+
+### How long does this process usually take?
+A few days to a week or two to create the documents. A few weeks to a few months depending on client reviews.
 
 ### Who is involved in this stage?
 

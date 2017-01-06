@@ -2,9 +2,6 @@
 title: Agreements
 ---
 
-### How long does this process usually take?
-Huge variance. Anywhere from a few weeks to a months and months. As of December 2016, the average time is 42 days.
-
 ### What happens in this stage? 
 Warning: You can proceed with the project before this phase is done for internal procurements, but expect this process to be long and full of unexpected surprises and requirements. Start this phase as soon as a TTS PM is assigned to your project, and stay on top of it.
 
@@ -13,6 +10,9 @@ To initiate a new project with an internal (TTS) client, TTS must create a new "
 All of these documents must go through their signature and approval processes. We currently use TTS's Interagency Agreements team for agreements. Once you have filled out the client and project specific parts of the IA Part A and B, fill out the [IAA Request Form](https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSdRQerRDxl4hPX_zTQJcY9fR9i0z3LI3dLQiKE0uyJ5fF666g/viewform) and team ops will fill out the rest of the information on the IA forms, will send to [TTS OGC]({{ site.baseurl }}/shared-data/tts-ogc) and [NCR OGC]({{ site.baseurl }}/shared-data/ncr-ogc) for review, and will route for signatures. 
 
 The client must also create and submit an [IX]({{ site.baseurl }}/shared-data/IX) to NCR. Who handles the IX generation process depends on which office the client is in. For TTS, talk to [TTS Finance]({{ site.baseurl }}/shared-data/tts-finance), for OPP talk to Stephanie.Webb@gsa.gov.
+
+### How long does this process usually take?
+Huge variance. Anywhere from a few weeks to a months and months. As of December 2016, the average time is 42 days.
 
 ### Who is involved in this stage? 
 - TTS Agreements team

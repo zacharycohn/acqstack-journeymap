@@ -2,13 +2,13 @@
 title: Onboarding
 ---
 
-### How long does this process usually take?
-A week or two, depending on scheduling.
-
 ### What happens in this stage?
 A project is staffed! Now it's time to get everyone up to speed.
 
 Schedule a kickoff meeting with the client to introduce them to the team, discuss the project, and establish next steps.
+
+### How long does this process usually take?
+A week or two, depending on scheduling.
 
 ### Who is involved in this stage? 
 

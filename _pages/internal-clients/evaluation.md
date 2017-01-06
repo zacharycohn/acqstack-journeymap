@@ -2,9 +2,6 @@
 title: Proposal Evaluation
 ---
 
-### How long does this process usually take?
-A few days to two weeks, depending on type of solicitation and number of bidders.
-
 ### What happens in this stage? 
 TTS and the client team forms an evaluation panel. This panel should be briefed by the TTS CO about how to properly do the evaluation and what to avoid doing to ensure compliance with all rules and regulations.
 
@@ -15,6 +12,9 @@ TTS will typically do oral interviews with vendors, as well as evaluations of th
 NCR handles formal communications with all bidders.
 
 After evaluations are completed, NCR releases pricing information to TTS. Final determinations are then made.  
+
+### How long does this process usually take?
+A few days to two weeks, depending on type of solicitation and number of bidders.
 
 ### Who is involved in this stage? 
 - NCR CO

@@ -2,15 +2,15 @@
 title: Solicitation Scoping
 ---
 
-### How long does this process usually take?
-Weeks to months.
-
 ### What happens in this stage? 
 It's time to figure out what the client needs to buy, and the acquisition strategy to get it! Here, we may run workshops, do user research, and even do some prototyping. There is a coaching and consulting element to this stage as well, as we potentially teach them about the benefits of open source, agile developent, or modular contracting.
 
 We learn as much as we can to develop an acquisition strategy and prepare to draft the acquisition documents.
 
 For external buys, we only help our clients buy development work to build them a thing.
+
+### How long does this process usually take?
+Weeks to months.
 
 ### Who is involved in this stage? 
 

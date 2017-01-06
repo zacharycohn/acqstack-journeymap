@@ -2,15 +2,14 @@
 title: Staffing
 ---
 
-### How long does this process usually take?
-A few days
-
 ### What happens in this stage?
 Substacks review projects in the "Staging" column of the 
 [Acqstack Kanban Board](https://docs.google.com/spreadsheets/d/1KbMQvkggVjBvFpdTqrP4Qu3Rjekaavoh_9FRfAecI24/edit?pli=1#gid=0) during Daily Kanban Standups. They send the Executive Summary around to members of their substack. They decide whether to pull the project.
 
 Once they pull a project, members of that substack are assigned and the [Project Onboarding Checklist](https://docs.google.com/document/d/1AXDLCLU3Fzp5iCASmdOM8hPU2kU0eQhGE3RmHgEBEU0/edit) is completed. Project moved from "Pending" to "Substack Assignment" to "People assigned" on the Acqstack Kanban board.
 
+### How long does this process usually take?
+A few days
 
 ### Who is involved in this stage?
 

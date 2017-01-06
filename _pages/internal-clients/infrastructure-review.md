@@ -2,14 +2,11 @@
 title: Infrastructure Review
 ---
 
+### What happens in this stage? 
 If you are buying software, pay attention to this stage! If you're buying access to people, you can proceed to the Solicitation Drafting stage. 
 
 There is a preliminary review, and a full GSA IT review.
 
-### How long does this process usually take?
-Potentially months, but you can proceed once the preliminary review is done, which should take less than a week.
-
-### What happens in this stage? 
 [Get more details about the Infrastructure Review process here.](https://docs.google.com/document/d/1AUyRggdKWLRcHC3E4ssHE_2tmOaDYTv0ex0lgwbwFSA/edit) A summary is below:
 
 If you know what you want to buy: 
@@ -24,6 +21,9 @@ If you don't know what you want to buy:
 
 1. In the case of a full and open competition where you're unsure at this phase who will even bid, let alone win, Infrastructure review cannot feasible happen here. 
 2. It must happen immediately after award, and be sure to include language that awards the contract to the winner pending successful GSA IT review.
+
+### How long does this process usually take?
+Potentially months, but you can proceed once the preliminary review is done, which should take less than a week.
 
 ### Who is involved in this stage? 
 

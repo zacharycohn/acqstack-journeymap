@@ -2,11 +2,6 @@
 title: Vendor Q&A
 ---
 
-### How long does this process usually take?
-There is no set-in-stone timelines, but for the Agile BPA we generally give vendors about 1 week to submit questions.
-
-We spend a 2 or 3 days answering. Posting the answers (which traditionally happens by posting an amendment to the solicitation) can happen in 1 day.
-
 ### What happens in this stage?
 This phase is optional, depending on the type of solicitation. Often, you want to bake in time for questions and answers from vendors so they can prepare better proposals and more accurate price quotes. It's time to make it clear between the vendor and the client what is expected of them. It's also a chance for the vendor to point out inconsistencies in scope or objectives in different documents, and for us to correct those inconsistencies, and to clear up any technical concerns they have.
 
@@ -17,6 +12,11 @@ Vendors post their questions as an issue on the Github repo. Configure this a Go
 At the end of the Q&A period, the NCR CO will post all questions and answers as an amendment on eBuy, the system of record.
 
 It is up to the CO’s discretion to allow questions after the Q&A has closed. Additional amendments should be posted for all vendors to see with answers to any further questions.
+
+### How long does this process usually take?
+There is no set-in-stone timelines, but for the Agile BPA we generally give vendors about 1 week to submit questions.
+
+We spend a 2 or 3 days answering. Posting the answers (which traditionally happens by posting an amendment to the solicitation) can happen in 1 day.
 
 ### Who is involved in this stage? 
 - NCR CO

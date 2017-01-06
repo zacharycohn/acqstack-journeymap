@@ -2,11 +2,11 @@
 title: Proposals
 ---
 
-### How long does this process usually take?
-8-10 days after Q&A answers are submitted (if applicable)
-
 ### What happens in this stage? 
 Vendors submit their proposals to the NCR CO. The CO then sends us the proposals, sans the pricing information (so the evaluation team in the next phase can make an evaluation unbiased by price).
+
+### How long does this process usually take?
+8-10 days after Q&A answers are submitted (if applicable)
 
 ### Who is involved in this stage? 
 - Vendor POC

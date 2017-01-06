@@ -1,9 +1,6 @@
 ---
-title: External Clients
+title: Award
 ---
-
-### How long does this process usually take?
-A few days.
 
 ### What happens in this stage? 
 If the final price is more than the previous IX: IX must be rewritten and updated with the final price, IGCE needs to be updated with final price.  Submit these to NCR together.
@@ -17,6 +14,9 @@ Update Github Pages site with the relevant information: pages.18f.gov/ads-bpa.
 Once all that is done, you can schedule the kickoff with the vendor, the client, and NCR. NCR has a 15 minute-or-so agenda they will go through, then turn it over to you and the client.
 
 Perform any necessary external communications about this award and debrief unsuccessful vendors. 
+
+### How long does this process usually take?
+A few days.
 
 ### Who is involved in this stage? 
 

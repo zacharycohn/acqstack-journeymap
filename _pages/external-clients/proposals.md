@@ -2,13 +2,13 @@
 title: Proposals
 ---
 
-### How long does this process usually take?
-8-10 days after Q&A answers are submitted (if applicable)
-
 ### What happens in this stage? 
 Vendors submit their proposals to the NCR CO. The CO then sends us the proposals, sans the pricing information (so the evaluation team in the next phase can make an evaluation unbiased by price).
 
 TTS is moving toward requiring vendors to comply with a specific proposal template. Making all proposals consistent would speed up evaluations and decrease the amount of content and overhead a vendor needs to create in order to bid.
+
+### How long does this process usually take?
+8-10 days after Q&A answers are submitted (if applicable)
 
 ### Who is involved in this stage? 
 - Vendor POC

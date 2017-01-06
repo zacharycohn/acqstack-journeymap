@@ -1,12 +1,9 @@
 ---
 title: Internal Client Intake
 ---
+### What happens in this stage? 
 Someone else in TTS says "We have something we need to buy!" Unlike external buys where Acqstack can decide the client or project is not a good fit and choose to pass on the work, we must be involved in all buys TTS performs.
 
-### How long does this process usually take?
-Unknown.
-
-### What happens in this stage? 
 Someone tells the [Director of TTS Acquisitions]({{ site.baseurl }}/shared-data/tts-acq-director) or [Deputy Director of TTS Acquisitions]({{ site.baseurl }}/shared-data/tts-acq-dep-director) they need something in person, over email, or slack in a DM, in #acquisition, or somewhere else. There is no standard place or way to request assistance at this time. #acq-wg-inception is working on improving this.
 
 Things can come up in a number of ways: 
@@ -19,6 +16,9 @@ Things can come up in a number of ways:
 Because we are required to assist in all internal TTS buys, there has been a reoccuring issue of how involved we get in answering the question "Is this the right thing to buy, and is the client ready to buy this?" 
 
 In some ways, we have less control than with external clients. That help is obstensibly why they hired us, and if the external client is committed to doing something we think is harmful, we have the ability to walk away. But in other ways, we have more control with internal clients. Ideally, we have more awareness about what our fellow TTS program offices are working on, and have more ability to get involved earlier in the procurement strategy and requirements definition process.
+
+### How long does this process usually take?
+Unknown.
 
 ### Who is involved in this stage??
 

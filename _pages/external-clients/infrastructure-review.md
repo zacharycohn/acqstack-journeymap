@@ -2,13 +2,11 @@
 title: Infrastructure Review
 ---
 
-If you are buying software, investigate your client agency's infrastructure review policies.
+### What happens in this stage? 
+If you are buying software, investigate your client agency's infrastructure review policies. Exact process will be situation dependent.
 
 ### How long does this process usually take?
 Unknown - will depend on the client agency.
-
-### What happens in this stage? 
-Situation dependent.
 
 ### Who is involved in this stage? 
 

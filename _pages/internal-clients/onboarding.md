@@ -2,15 +2,15 @@
 title: Onboarding
 ---
 
-### How long does this process usually take?
-A week or two, depending on scheduling.
-
 ### What happens in this stage?
 A project is staffed! Now it's time to get everyone up to speed.
 
 Meet with TTS Acquisition Management and Oversight to decide if this should be an internal buy or an NCR buy. If NCR, loop them in immediately and proceed to Agreements. If internal buy, do an MOU for contracted dollar amount between Acqstack and the program office. No published process currently exists for this.
 
 Schedule a kickoff meeting with the client to introduce them to the team, discuss the project, and establish next steps.
+
+### How long does this process usually take?
+A week or two, depending on scheduling.
 
 ### Who is involved in this stage? 
 

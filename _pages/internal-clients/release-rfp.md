@@ -2,11 +2,11 @@
 title: Release the Solicitation
 ---
 
-### How long does this process usually take?
-A day or two to publish the solicitation. How long it stays open depends on the particular acquisition strategy, but in general we aim for no more than 3-4 weeks.
-
 ### What happens in this stage? 
 The NCR CO releases the solicitation "to the street." 
+
+### How long does this process usually take?
+A day or two to publish the solicitation. How long it stays open depends on the particular acquisition strategy, but in general we aim for no more than 3-4 weeks.
 
 ### Who is involved in this stage? 
 - NCR CO
