@@ -14,6 +14,9 @@ This approval process is a cycle. Keep going until everyone is happy.
 
 This process will take way longer than you expect it to, even for short and simple procurements. 
 
+Be sure to work with the NCR CO to agree on a evaluation "consensus report" strategy for evaluation of bids with NCR CO. You want to ensure the NCR CO has no issues with the evaluation strategy.
+
+
 ### Who is involved in this stage? 
 - NCR CO
 - NCR CS
@@ -25,6 +28,7 @@ This process will take way longer than you expect it to, even for short and simp
 1. Tasks done
 	- All approvers must sign off on the final version of the documents.
 	- NCR and TTS mutually agree documents are "locked" and no more edits will be made by either party.
+	- Agree on a evaluation "consensus report" strategy for evaluation of bids with NCR CO.
 2. Documents created
 	- N/A
 3. Approvals needed
