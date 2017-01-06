@@ -80,7 +80,7 @@ navigation:
     url: award/
     internal: true
 - text: Internal Clients
-  url: internal-clients/
+  url: internal-clients/internal-clients/
   internal: true
   children:
   - text: Intake
