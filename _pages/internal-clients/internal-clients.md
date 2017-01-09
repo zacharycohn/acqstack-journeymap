@@ -1,5 +1,5 @@
 ---
-title: Internal Clients
+title: Internal Client Process
 ---
 
 Internal clients include anyone within the Technology Transformation Service (TTS). This includes, but is not limited to, OPP (formerly OCSIT), TTS Infrastructure, TTS Operations, Transformation Services, Custom Partner Solutions, TTS Acquisitions, etc. 
