@@ -4,7 +4,7 @@ title: Internal Client Intake
 ### What happens in this stage? 
 Someone else in TTS says "We have something we need to buy!" Unlike external buys where Acqstack can decide the client or project is not a good fit and choose to pass on the work, we must be involved in all buys TTS performs.
 
-Someone tells the [Director of TTS Acquisitions]({{ site.baseurl }}/shared-data/tts-acq-director) or [Deputy Director of TTS Acquisitions]({{ site.baseurl }}/shared-data/tts-acq-dep-director) they need something in person, over email, or slack in a DM, in #acquisition, or somewhere else. There is no standard place or way to request assistance at this time. #acq-wg-inception is working on improving this.
+Someone tells the [Director of TTS Acquisitions]({{ site.baseurl }}/shared-data/tts-acq-director/) or [Deputy Director of TTS Acquisitions]({{ site.baseurl }}/shared-data/tts-acq-dep-director/) they need something in person, over email, or slack in a DM, in #acquisition, or somewhere else. There is no standard place or way to request assistance at this time. #acq-wg-inception is working on improving this.
 
 Things can come up in a number of ways: 
 
@@ -22,7 +22,7 @@ Unknown.
 
 ### Who is involved in this stage??
 
-- [Director of TTS Acquisitions]({{ site.baseurl }}/shared-data/tts-acq-director) or [Deputy Director of TTS Acquisitions]({{ site.baseurl }}/shared-data/tts-acq-dep-director)
+- [Director of TTS Acquisitions]({{ site.baseurl }}/shared-data/tts-acq-director/) or [Deputy Director of TTS Acquisitions]({{ site.baseurl }}/shared-data/tts-acq-dep-director/)
 - Sometimes TTS Agency Partnerships
 - Other TTS program office (the client)
 
@@ -30,13 +30,13 @@ Unknown.
 1. Tasks done
   * Established client point of contact
   * Verbal confirmation budget for TTS and for vendor is available
-  * A card is created in the Kanban board, links to the [Executive Summary]({{ site.baseurl }}/shared-data/executive-summary), and is moved to "Staging."
+  * A card is created in the Kanban board, links to the [Executive Summary]({{ site.baseurl }}/shared-data/executive-summary/), and is moved to "Staging."
 2. Documents created
-  * [Executive Summary]({{ site.baseurl }}/shared-data/executive-summary) document is filled out.
-  * Generate an [IA Part A]({{ site.baseurl }}/shared-data/ia-part-a) and [IA Part B]({{ site.baseurl }}/shared-data/ia-part-b) for this client from the template. Does not need to be filled out right now to proceed.
+  * [Executive Summary]({{ site.baseurl }}/shared-data/executive-summary/) document is filled out.
+  * Generate an [IA Part A]({{ site.baseurl }}/shared-data/ia-part-a/) and [IA Part B]({{ site.baseurl }}/shared-data/ia-part-b/) for this client from the template. Does not need to be filled out right now to proceed.
   * New google drive folder is created in [WHERE SHOULD THIS FOLDER BE?]
 3. Approvals needed
-  * [Director of TTS Acquisitions]({{ site.baseurl }}/shared-data/tts-acq-director) or [Deputy Director of TTS Acquisitions]({{ site.baseurl }}/shared-data/tts-acq-dep-director)
+  * [Director of TTS Acquisitions]({{ site.baseurl }}/shared-data/tts-acq-director/) or [Deputy Director of TTS Acquisitions]({{ site.baseurl }}/shared-data/tts-acq-dep-director/)
 
 ### What can go wrong in this stage? 
 In the past, there has been an expectation that no, or very little, planning or coordination is necessary. Just "here's an email, now lets go go go!"

@@ -13,7 +13,7 @@ A few days
 
 ### Who is involved in this stage? 
 
-- [Kanban Lead]({{ site.baseurl }}/shared-data/kanban-lead)
+- [Kanban Lead]({{ site.baseurl }}/shared-data/kanban-lead/)
 - Members of the substack
 
 ### What needs to happen to get us out of this stage? 
