@@ -1,5 +1,5 @@
 ---
-title: External Clients
+title: External Client Process
 ---
 
 External clients include everyone outside of the Technology Transformation Service (TTS). This includes other federal agencies and departments, as well as other parts of GSA.
